@@ -117,7 +117,8 @@ plt.show()
 
 ```
 # output :
-![Output exp2 NN](https://github.com/syedmokthiyar/Experiment-2--Implementation-of-Perceptron/assets/118787294/92a82778-f665-40e6-940c-3e4134dd74bc)
+![Screenshot 2023-09-23 112646](https://github.com/syedmokthiyar/Experiment-2--Implementation-of-Perceptron/assets/118787294/2c1cf1c3-f578-440d-992b-50fecb5421a9)
+
 
 
 # result
